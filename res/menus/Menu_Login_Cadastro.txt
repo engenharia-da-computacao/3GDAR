@@ -1,0 +1,5 @@
+	1 - Login
+	2 - Cadastro
+	3 - Voltar ao Menu Principal
+
+Digite o valor da opção: 

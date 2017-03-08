@@ -1,0 +1,5 @@
+	1 - Fazer backup do sistema
+	2 - Ver logs
+	3 - Sair
+
+Digite o valor da opção: 

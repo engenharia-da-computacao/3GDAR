@@ -1,0 +1,5 @@
+	1 - Novo requerimento
+	2 - Ver meus requerimentos
+	3 - Sair
+
+Digite o valor da opção: 

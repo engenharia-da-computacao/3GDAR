@@ -1,0 +1,7 @@
+	1 - Doador
+	2 - Organização
+	3 - Administração
+	4 - Ver requerimentos de sangue
+	5 - Sair
+
+Digite o valor da opção: 
